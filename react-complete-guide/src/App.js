@@ -12,6 +12,8 @@ class App extends Component {
     ]
   }
 
+
+  
   render() {
     return (
       //Em React (JSX), elementos precisam ter pelo menos um "pai". Por exemplo, não posso criar outro <h1> fora da div App.
